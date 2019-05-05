@@ -1,0 +1,53 @@
++++
+# Experience widget.
+widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
+headless = true  # This file represents a page section.
+active = true  # Activate this widget? true/false
+weight = 40  # Order that this section will appear.
+
+title = "Experience"
+subtitle = ""
+
+# Date format for experience
+#   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
+date_format = "Jan 2006"
+
+# Experiences.
+#   Add/remove as many `[[experience]]` blocks below as you like.
+#   Required fields are `title`, `company`, and `date_start`.
+#   Leave `date_end` empty if it's your current employer.
+#   Begin/end multi-line descriptions with 3 quotes `"""`.
+[[experience]]
+  title = "Graduate Research Assistant"
+  company = "National Survey of Student Engagement"
+  company_url = "http://nsse.indiana.edu/"
+  location = "Bloomginton, IN"
+  date_start = "2017-08-01"
+  date_end = ""
+  description = """
+  Responsibilities include:
+  
+  * Analysing
+  * Modelling
+  * Deploying
+  """
+
+[[experience]]
+  title = "Administrative Director"
+  company = "Stony Brook University"
+  company_url = "http://stonybrook.edu/usg"
+  location = "New York"
+  date_start = "2014-01-06"
+  date_end = "2017-07-31"
+  description = """Administrative Director."""
+  
+[[experience]]
+  title = "Vice President, Board of Directors"
+  company = "Faculty Student Association"
+  company_url = "http://stonybrook.edu/fsa"
+  location = "New York"
+  date_start = "2014-01-06"
+  date_end = "2017-07-31"
+  description = """Food."""
+
++++
