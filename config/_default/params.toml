@@ -9,13 +9,13 @@ day_night = true
 
 # Font style.
 #   Choose from `default`, `classic`, or `playfair`.
-font = "default"
+font = "playfair"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = ""
+description = "Personal Website for Thomas Kirnbauer"
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
-sharing_image = ""
+sharing_image = "Headshot2.jpg"
 
 # Twitter username (without @). Used when a vistor shares your site on Twitter.
 twitter = ""
@@ -50,7 +50,7 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "tkirnbau@iu.edu"
+email = "tkirnbau [at] iu.edu"
 phone = ""
 address = "Greenwood, IN"
 
@@ -120,6 +120,7 @@ comment_count = true
 
 # Display next/previous section pager? (true/false)
 section_pager = false
+docs_section_pager = true  # Display pager in Docs layout (e.g. tutorials)?
 
 # Enable in-built social sharing buttons? (true/false)
 sharing = true

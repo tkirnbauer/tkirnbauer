@@ -4,9 +4,11 @@ authors:
 categories: []
 date: "2019-02-05T00:00:00Z"
 draft: false
+featured: false
 image:
   caption: ""
   focal_point: ""
+projects: []
 subtitle: Learn how to blog in Academic using Jupyter notebooks
 summary: Learn how to blog in Academic using Jupyter notebooks
 tags: []

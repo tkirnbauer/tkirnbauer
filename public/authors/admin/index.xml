@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>admin on Thomas Kirnbauer</title>
+    <title>Thomas Kirnbauer</title>
     <link>/authors/admin/</link>
-    <description>Recent content in admin on Thomas Kirnbauer</description>
+    <description>Recent content on Thomas Kirnbauer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>&amp;copy; Thomas Kirnbauer 2019</copyright>
     <lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
@@ -22,10 +23,10 @@
     
     <item>
       <title></title>
-      <link>/author/admin/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <link>/authors/admin/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/author/admin/</guid>
+      <guid>/authors/admin/</guid>
       <description>Thomas Kirnbauer is a PhD student in the Higher Education program, with a minor in Data Science, at Indiana University. He currently serves as a Research Project Associate for the National Survey of Student Engagement (NSSE). Prior to IU, Tom worked as the Director of the Student Government and Vice President of the Faculty Student Association at Stony Brook University.</description>
     </item>
     
