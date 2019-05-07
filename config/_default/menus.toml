@@ -23,10 +23,10 @@
   url = "#publications"
   weight = 40
 
-[[main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 50
+#[[main]]
+  #name = "Posts"
+  #url = "#posts"
+  #weight = 50
 
 [[main]]
   name = "Contact"
@@ -35,7 +35,7 @@
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-#[[main]]
-    #name = "Resume"
-    #url = "static/files/Kirnbauer Resume 2018.pdf"
-    #weight = 70
+[[main]]
+  name = "Resume"
+  url = "/files/resume.pdf"
+  weight = 70
