@@ -1,45 +1,34 @@
 ---
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed
-  ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis
-  sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida
-  egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id
-  dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.
-  Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Conference Paper from ASHE 2018
 authors:
-- admin
-- Robert Ford
-date: "2013-07-01T00:00:00-04:00"
+- Allison BrckaLorenz, Dajanae Palmer, Thomas Kirnbauer, Donte` Miller
+date: "2018-11-14T00:00:00-04:00"
 doi: ""
 featured: true
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'Image credit: **Thomas Kirnbauer**'
   focal_point: ""
 links:
-- name: Custom Link
-  url: http://example.org
-projects:
-- internal-project
-publication: In *Source Themes Conference*
-publication_short: In *STC*
-publication_types:
-- "1"
-slides: example
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+- name: Handouts
+  url: http://cpr.indiana.edu/uploads/ASHE_2018_Activism_slides.pdf
+#projects:
+#- internal-project
+#publication: In *ASHE 2018*
+#publication_short: In *ASHE*
+#publication_types:
+#- "1"
+#slides: example
+summary: Conference Paper from ASHE 2018
 tags:
-- Source Themes
-title: An example conference paper
-url_code: '#'
-url_dataset: '#'
-url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
-url_poster: '#'
-url_project: ""
-url_slides: ""
-url_source: '#'
-url_video: '#'
+- ASHE
+title: Student Activism - ASHE 2018 
+url_code: ''
+url_dataset: ''
+url_pdf: http://nsse.indiana.edu/pdf/presentations/2018/ASHE_2018_Activism_paper.pdf
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
 ---
 
-{{% alert note %}}
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-{{% /alert %}}

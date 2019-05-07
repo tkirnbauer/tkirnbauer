@@ -32,15 +32,11 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'
-- icon: twitter
-  icon_pack: fab
-  link: TBD
-- icon: google-scholar
-  icon_pack: ai
-  link: TBD
-- icon: github
-  icon_pack: fab
-  link: TBD
+- icon: chart-pie
+  icon_pack: fas
+  link: https://public.tableau.com/profile/thomas.kirnbauer#!/
+  
+
 superuser: true
 user_groups:
 - Researchers
