@@ -18,36 +18,36 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "80%"
+  description = "tidyverse"
 
 [[feature]]
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = "60%"
+  description = "pandas, numpy"
 
 [[feature]]
   icon = "table"
   icon_pack = "fas"
   name = "SPSS"
-  description = "80%"  
+  description = "syntax"  
 
 [[feature]]
   icon = "chart-pie"
   icon_pack = "fas"
   name = "Tableau"
-  description = "80%"  
+  description = ""  
 
 [[feature]]
   icon = "database"
   icon_pack = "fas"
   name = "SQL"
-  description = "60%"
+  description = ""
   
 [[feature]]
   icon = "file-excel"
   icon_pack = "fas"
   name = "Microsoft Excel"
-  description = "80%"  
+  description = "vlookup"  
   
 +++
