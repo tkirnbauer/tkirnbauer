@@ -41,8 +41,8 @@ subtitle = ""
 [[feature]]
   icon = "database"
   icon_pack = "fas"
-  name = "SQL"
-  description = ""
+  name = "Database Management"
+  description = "SQL, MongoDB, MS Access"
   
 [[feature]]
   icon = "file-excel"
