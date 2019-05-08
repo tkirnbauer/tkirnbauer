@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Thomas Kirnbauer</title>
-    <link>/post/</link>
-    <description>Recent content in Posts on Thomas Kirnbauer</description>
+    <title>Thomas Kirnbauer</title>
+    <link>/tags/thomas-kirnbauer/</link>
+    <description>Recent content on Thomas Kirnbauer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Thomas Kirnbauer 2019</copyright>
     <lastBuildDate>Tue, 07 May 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/thomas-kirnbauer/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,15 +19,6 @@
       
       <guid>/post/hello/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Display Jupyter Notebooks with Academic</title>
-      <link>/post/jupyter/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/post/jupyter/</guid>
-      <description>Learn how to blog in Academic using Jupyter notebooks</description>
     </item>
     
   </channel>

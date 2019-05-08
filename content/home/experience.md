@@ -20,6 +20,13 @@ date_format = "Jan 2006"
   
   # Background color.
   color = "grey3"
+  
+  #Background image.
+  image = "brookfest2016.jpg"  # Name of image in `static/img/`.
+  image_darken = 0.3  # Darken the image? Range 0-1, 0 Transparent
+  
+  # Text color (true=light or false=dark).
+  #text_color_light = T
 
 # Experiences.
 #   Add/remove as many `[[experience]]` blocks below as you like.

@@ -40,9 +40,9 @@ date_format = "Jan 2006"
   description = ""
   
 [[item]]
+  title = "Your Best Campus Tradition Award"
   organization = "National Association for Campus Activities (NACA)"
   organization_url = ""
-  title = "Your Best Campus Traditions"
   url = ""
   certificate_url = "https://www.facebook.com/pg/TheNACA/posts/?ref=page_internal"
   date_start = "2017-01-21"
