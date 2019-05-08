@@ -3,7 +3,7 @@
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+weight = 30  # Order that this section will appear.
 
 title = "Experiences"
 subtitle = ""
@@ -17,9 +17,10 @@ date_format = "Jan 2006"
   #   Uncomment (by removing `#`) an option to apply it.
   #   Choose a light or dark text color by setting `text_color_light`.
   #   Any HTML color name or Hex value is valid.
-  
-  # Background color.
-  color = "grey3"
+
+  # Background image.
+  image = "brookfest2016.jpg"  # Name of image in `static/img/`.
+  image_darken = .3  # Darken the image? Range 0-1, 0 is transparent
 
 # Experiences.
 #   Add/remove as many `[[experience]]` blocks below as you like.
