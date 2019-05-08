@@ -18,22 +18,6 @@
   </url>
   
   <url>
-    <loc>/talk/example/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/post/hello/</loc>
     <lastmod>2019-05-07T00:00:00+00:00</lastmod>
   </url>
@@ -51,6 +35,12 @@
   
   <url>
     <loc>/tags/thomas-kirnbauer/</loc>
+    <lastmod>2019-05-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/</loc>
     <lastmod>2019-05-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -105,14 +95,14 @@
   </url>
   
   <url>
-    <loc>/tags/demo/</loc>
+    <loc>/project/external-project/</loc>
     <lastmod>2018-10-31T00:00:00-04:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>/project/external-project/</loc>
+    <loc>/tags/nsse/</loc>
     <lastmod>2018-10-31T00:00:00-04:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -127,13 +117,18 @@
   </url>
   
   <url>
-    <loc>/tags/example/</loc>
+    <loc>/tags/bcsse/</loc>
     <lastmod>2016-04-27T00:00:00-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/project/internal-project/</loc>
+    <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/ir-brief/</loc>
     <lastmod>2016-04-27T00:00:00-04:00</lastmod>
   </url>
   

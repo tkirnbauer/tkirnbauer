@@ -6,6 +6,6 @@ image:
   focal_point: Smart
 summary: As a Graduate Intern with IUPUI Institutional Research and Decision Support (IRDS), I created a report to summarize the major findings of their NSSE 2018 results.
 tags:
-- Demo
+- NSSE
 title: IUPUI NSSE Report
 ---

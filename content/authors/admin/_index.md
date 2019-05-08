@@ -2,7 +2,7 @@
 authors:
 - admin
 bio: My research interests include student success and college affordability. 
-  matter.
+
 education:
   courses:
   - course: PhD in Higher Education, minor in Data Science

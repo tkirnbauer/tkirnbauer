@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NSSE on Thomas Kirnbauer</title>
+    <link>/tags/nsse/</link>
+    <description>Recent content in NSSE on Thomas Kirnbauer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Thomas Kirnbauer 2019</copyright>
+    <lastBuildDate>Wed, 31 Oct 2018 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="/tags/nsse/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>IUPUI NSSE Report</title>
+      <link>/project/external-project/</link>
+      <pubDate>Wed, 31 Oct 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/project/external-project/</guid>
+      <description>As a Graduate Intern with IUPUI Institutional Research and Decision Support (IRDS), I created a report to summarize the major findings of their NSSE 2018 results.</description>
+    </item>
+    
+    <item>
+      <title>Exploratory Factor Analysis</title>
+      <link>/project/internal-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/project/internal-project/</guid>
+      <description>I conducted an EFA to examine students responses to perception of safety and feeling valued in the residence halls.</description>
+    </item>
+    
+  </channel>
+</rss>
