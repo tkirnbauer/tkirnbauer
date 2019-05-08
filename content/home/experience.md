@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 
   # Background image.
   image = "brookfest2016.jpg"  # Name of image in `static/img/`.
-  image_darken = .3  # Darken the image? Range 0-1, 0 is transparent
+  image_darken = 0.3  # Darken the image? Range 0-1, 0 is transparent
 
 # Experiences.
 #   Add/remove as many `[[experience]]` blocks below as you like.
