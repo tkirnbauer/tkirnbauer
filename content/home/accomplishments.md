@@ -18,7 +18,16 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-
+[[item]]
+  organization = "Udemy"
+  organization_url = "https://www.udemy.com"
+  title = "SQL Bootcamp: Certificate of Completion"
+  url = ""
+  certificate_url = "https://www.udemy.com/certificate/UC-OCDEIQ63/?utm_campaign=email&utm_source=sendgrid.com&utm_medium=email
+  date_start = "2019-05-11"
+  date_end = ""
+  description = "I completed over 50 hours worth of self-guided courses to learn python"
+  
 [[item]]
   organization = "DataCamp"
   organization_url = "https://www.datacamp.com"
