@@ -8,7 +8,6 @@ slides: example-slides
 summary: I explored students' attitude toward debt at IU.
 tags:
 - BCSSE
-- Student Debt
 title: Student Debt Research Brief
 url_code: ""
 url_pdf: "/files/IR_Brief.pdf"

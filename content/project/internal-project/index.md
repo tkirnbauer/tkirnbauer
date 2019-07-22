@@ -8,7 +8,6 @@ slides: example-slides
 summary: I conducted an EFA to examine students responses to perception of safety and feeling valued in the residence halls. 
 tags:
 - NSSE
-- Research Methods
 title: Exploratory Factor Analysis
 url_code: ""
 url_pdf: "/files/Multivariate_EFA.pdf"

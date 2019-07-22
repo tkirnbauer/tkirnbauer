@@ -9,7 +9,7 @@ image:
   caption: 'Image credit: **Thomas Kirnbauer**'
   focal_point: ""
 links:
-- name: Slides
+- name: Handouts
   url: http://cpr.indiana.edu/uploads/ASHE_2018_Activism_slides.pdf
 #projects:
 #- internal-project
