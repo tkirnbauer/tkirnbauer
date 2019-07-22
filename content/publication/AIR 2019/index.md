@@ -21,7 +21,7 @@ image:
 summary: Conference Poster from AIR 2019
 tags:
 - AIR
-title: Tableau Tips and Tricks - Dynamic Dashboards with Survey Data 
+title: "Tableau Tips and Tricks - Dynamic Dashboards with Survey Data" 
 url_code: ''
 url_dataset: ''
 url_pdf: http://nsse.indiana.edu/pdf/presentations/2019/AIR_2019_Tableau_Poster.pdf
