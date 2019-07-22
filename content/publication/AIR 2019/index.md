@@ -19,8 +19,8 @@ image:
 #- "1"
 #slides: example
 summary: Conference Poster from AIR 2019
-tags:
-- ASHE
+#tags:
+#- ASHE
 title: Tableau Tips and Tricks: Dynamic Dashboards with Survey Data 
 url_code: ''
 url_dataset: ''
