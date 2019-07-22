@@ -36,7 +36,7 @@ social:
   icon_pack: fas
   link: https://public.tableau.com/profile/thomas.kirnbauer#!/
 - icon: github
-  icon_pack: fas
+  icon_pack: fab
   link: https://github.com/tkirnbauer
   
 
