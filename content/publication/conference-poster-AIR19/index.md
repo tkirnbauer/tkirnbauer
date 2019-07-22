@@ -8,13 +8,13 @@ featured: true
 image:
   caption: 'Image credit: **Thomas Kirnbauer**'
   focal_point: ""
-links:
-- name: Handouts
-  url: http://cpr.indiana.edu/uploads/ASHE_2018_Activism_slides.pdf
+#links:
+#- name: Handouts
+#  url: http://cpr.indiana.edu/uploads/ASHE_2018_Activism_slides.pdf
 #projects:
 #- internal-project
-#publication: In *ASHE 2018*
-#publication_short: In *ASHE*
+#publication: In *AIR 2019*
+#publication_short: In *AIR*
 #publication_types:
 #- "1"
 #slides: example
