@@ -19,8 +19,8 @@ date_format = "Jan 2006"
   #   Any HTML color name or Hex value is valid.
 
   # Background image.
-  image = "brookfest2016.jpg"  # Name of image in `static/img/`.
-  image_darken = 0.3  # Darken the image? Range 0-1, 0 is transparent
+  # image = "brookfest2016.jpg"  # Name of image in `static/img/`.
+  # image_darken = 0.3  # Darken the image? Range 0-1, 0 is transparent
   
   # Text color (true=light or false=dark).
   text_color_light = false
@@ -31,7 +31,7 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Graduate Research Assistant"
+  title = "Graduate Research Project Associate"
   company = "National Survey of Student Engagement"
   company_url = "http://nsse.indiana.edu/"
   location = "Bloomginton, IN"
