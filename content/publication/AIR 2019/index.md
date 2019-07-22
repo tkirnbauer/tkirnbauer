@@ -10,7 +10,7 @@ image:
   focal_point: ""
 #links:
 #- name: Slides
-#  url: http://cpr.indiana.edu/uploads/ASHE_2018_Activism_slides.pdf
+#  url: ''
 #projects:
 #- internal-project
 #publication: In *AIR 2019*
@@ -19,9 +19,9 @@ image:
 #- "1"
 #slides: example
 summary: Conference Poster from AIR 2019
-#tags:
-#- ASHE
-title: Tableau Tips and Tricks: Dynamic Dashboards with Survey Data 
+tags:
+- AIR
+title: Tableau Tips and Tricks - Dynamic Dashboards with Survey Data 
 url_code: ''
 url_dataset: ''
 url_pdf: http://nsse.indiana.edu/pdf/presentations/2019/AIR_2019_Tableau_Poster.pdf
