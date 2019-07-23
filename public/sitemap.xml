@@ -18,6 +18,46 @@
   </url>
   
   <url>
+    <loc>/tags/ashe/</loc>
+    <lastmod>2019-05-28T00:00:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2019-05-28T00:00:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2019-05-28T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/conference-poster-air19/</loc>
+    <lastmod>2019-05-28T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-05-28T00:00:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2019-05-28T00:00:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/authors/thomas-kirnbauer-allison-brckalorenz/</loc>
+    <lastmod>2019-05-28T00:00:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/post/hello/</loc>
     <lastmod>2019-05-07T00:00:00+00:00</lastmod>
   </url>
@@ -28,19 +68,7 @@
   </url>
   
   <url>
-    <loc>/tags/</loc>
-    <lastmod>2019-05-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/thomas-kirnbauer/</loc>
-    <lastmod>2019-05-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/</loc>
     <lastmod>2019-05-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -48,12 +76,6 @@
   <url>
     <loc>/authors/admin/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -73,20 +95,9 @@
   </url>
   
   <url>
-    <loc>/tags/ashe/</loc>
-    <lastmod>2018-11-14T00:00:00-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/authors/allison-brckalorenz-dajanae-palmer-thomas-kirnbauer-donte-miller/</loc>
     <lastmod>2018-11-14T00:00:00-04:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2018-11-14T00:00:00-04:00</lastmod>
   </url>
   
   <url>

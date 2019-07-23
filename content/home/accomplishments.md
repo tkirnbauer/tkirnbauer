@@ -19,6 +19,21 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 
+ [[main]]
+    name = "Resume"
+    url = "files/resume.pdf"
+    weight = 70
+    
+[[item]]
+  organization = "National Center for Education Statistics"
+  organization_url = "https://www.airweb.org/collaborate-learn/professional-development-training/courses-workshops/nces-data-institute"
+  title = "NCES Data Institute Fellow 2019"
+  url = ""
+  certificate_url = "files/Data_Institute_2019.pdf"
+  date_start = "2019-01-14"
+  date_end = "2019-05-12"
+  description = "As a fellow for the NCES Data Institute 2019, I completed a 6-week online course, followed by a 15-week group capstone project, and participated in a 3-day face-to-face meeting in Washington D.C. The Data Institute provided valuable hands-on experience working with federal higher education data, crafting an executive summary for a policy audience, and networking with colleagues."
+
 [[item]]
   organization = "DataCamp"
   organization_url = "https://www.datacamp.com"

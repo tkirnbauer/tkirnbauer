@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications on Thomas Kirnbauer</title>
-    <link>/publication/</link>
-    <description>Recent content in Publications on Thomas Kirnbauer</description>
+    <title>Thomas Kirnbauer, Allison BrckaLorenz on Thomas Kirnbauer</title>
+    <link>/authors/thomas-kirnbauer-allison-brckalorenz/</link>
+    <description>Recent content in Thomas Kirnbauer, Allison BrckaLorenz on Thomas Kirnbauer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Thomas Kirnbauer 2019</copyright>
     <lastBuildDate>Tue, 28 May 2019 00:00:00 -0400</lastBuildDate>
     
-	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/authors/thomas-kirnbauer-allison-brckalorenz/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,15 +19,6 @@
       
       <guid>/publication/conference-poster-air19/</guid>
       <description>Conference Poster from AIR 2019</description>
-    </item>
-    
-    <item>
-      <title>Student Activism - ASHE 2018</title>
-      <link>/publication/conference-paper/</link>
-      <pubDate>Wed, 14 Nov 2018 00:00:00 -0400</pubDate>
-      
-      <guid>/publication/conference-paper/</guid>
-      <description>Conference Paper from ASHE 2018</description>
     </item>
     
   </channel>
