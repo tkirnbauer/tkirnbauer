@@ -46,11 +46,11 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "Stony Brook University"
-  organization_url = ""
+  organization_url = "files/SBU_Partnership.pdf"
   title = "Fredrick R. Preston Student Affairs Partnership Award"
   url = ""
   certificate_url = ""
-  date_start = "2017-07-02"
+  date_start = "2017-06-21"
   date_end = ""
   description = ""
   
@@ -64,6 +64,16 @@ date_format = "Jan 2006"
   date_end = ""
   description = "I was responsible for managing Roth Regatta, Stony Brook University's oldest student-run event. In 2017, our event won the Best Campus Tradition Award by NACA."
 
+[[item]]
+  title = "Distinguished Service"
+  organization = "Graduate Student Organization"
+  organization_url = "files/GSO_Service.pdf"
+  url = ""
+  certificate_url = ""
+  date_start = "2016-05-09"
+  date_end = ""
+  description = ""
+  
 [[item]]
   organization = "Boy Scouts of America"
   organization_url = ""
