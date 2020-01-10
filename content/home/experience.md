@@ -40,7 +40,13 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
   
-  * Design and Build Tableau reports for the Faculty Survey of Student Engagement (FSSE)
+  * Assist with the cleaning and management of large-scale survey data (1M+ rows)
+  * Create and revise SPSS Syntax to conduct data analysis and deliver reports on a regular basis 
+  * Design and build comprehensive Tableau dashboards for the Faculty Survey of Student Engagement (FSSE)
+  * Conduct data checks to ensure the quality of reports delivered to institutions
+  * Use RStudio to create ad-hoc reports that contributed to the NSSE Psychometric Portfolio
+  * Co-supervise an informatics-major student intern in the redesign of the NSSE website
+
 
   """
 
@@ -48,18 +54,18 @@ date_format = "Jan 2006"
   title = "Administrative Director"
   company = "Stony Brook University"
   company_url = "http://stonybrook.edu/usg"
-  location = "New York"
+  location = "Stony Brook, NY"
   date_start = "2014-01-06"
   date_end = "2017-07-31"
-  description = """Administrative Director."""
+  description = """Managed and provided oversight of Student Government, including an annual operating budget of $3.5 Million."""
   
 [[experience]]
   title = "Vice President, Board of Directors"
   company = "Faculty Student Association"
   company_url = "http://stonybrook.edu/fsa"
-  location = "New York"
+  location = "Stony Brook, NY"
   date_start = "2014-01-06"
   date_end = "2017-07-31"
-  description = """Food."""
+  description = """As the VP of the Board of Directors, I provided leadership to enhance student voice, provide oversight of the budget, and execute multiple bid selections for food and retail services."""
 
 +++

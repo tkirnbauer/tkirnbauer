@@ -7,7 +7,7 @@ education:
   courses:
   - course: PhD in Higher Education, minor in Data Science
     institution: Indiana University, Bloomington
-    year: Expected 2021
+    year: Expected Fall 2020
   - course: MA in Higher Education
     institution: Stony Brook University
     year: 2017

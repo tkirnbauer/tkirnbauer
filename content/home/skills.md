@@ -18,13 +18,13 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "tidyverse"
+  description = "tidyverse, rmarkdown, lavaan, etc."
 
 [[feature]]
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = "pandas, numpy"
+  description = "pandas, numpy, altair, seaborn, etc."
 
 [[feature]]
   icon = "table"
@@ -48,6 +48,6 @@ subtitle = ""
   icon = "file-excel"
   icon_pack = "fas"
   name = "Microsoft Excel"
-  description = "vlookup"  
+  description = "vlookup, pivot tables, etc."  
   
 +++
