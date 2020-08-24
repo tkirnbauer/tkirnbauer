@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 200  # Order that this section will appear.
 
-title = "Demos"
+title = "IR portfolio"
 subtitle = ""
 
 [design]
@@ -47,16 +47,11 @@ subtitle = ""
  css_class = ""
 +++
 
-Welcome to the **personal demo** of Academic. Other demos available include:
+Welcome to my ePortfolio for the Institutional Research Graduate Certification
 
-- [**Project Demo** (Academic's actual site)](https://sourcethemes.com/academic/)
+- knowledge and skills
 
-**Over 100,000 [Amazing Websites](https://sourcethemes.com/academic/#expo) have Already Been Built with Academic**
+**This section fullfills the requirements for [the Graduate Certificate in Institutional Research at Indiana University](https://education.indiana.edu/programs/graduate/certificate/institutional-research.html) **
 
-**[Join](https://sourcethemes.com/academic/docs/install/) the Most Empowered Hugo Community**
+subtitle = "Knowledge and skills"
 
-{{% alert note %}}
-This homepage section is an example of adding [elements](https://sourcethemes.com/academic/docs/writing-markdown-latex/) to the [*Blank* widget](https://sourcethemes.com/academic/docs/widgets/).
-
-Backgrounds can be applied to any section. Here, the *background* option is set give an *image parallax* effect.
-{{% /alert %}}
