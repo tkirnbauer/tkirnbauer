@@ -27,7 +27,7 @@ name: Thomas Kirnbauer
 organizations:
 - name: Indiana University, Bloomington
   url: ""
-role: PhD student in Higher Education
+role: PhD Candidate in Higher Education
 social:
 - icon: envelope
   icon_pack: fas
@@ -48,4 +48,4 @@ user_groups:
 - Visitors
 ---
 
-Thomas Kirnbauer is a PhD student in the Higher Education program, with a minor in Data Science, at Indiana University. He currently serves as a Research Project Associate for the National Survey of Student Engagement (NSSE). Prior to IU, Tom worked as the Director of the Student Government and Vice President of the Faculty Student Association at Stony Brook University.
+Thomas Kirnbauer is a PhD candidate in the Higher Education program, with a minor in Data Science, at Indiana University. He currently serves as a Research Project Associate for the National Survey of Student Engagement (NSSE). Prior to IU, Tom worked as the Director of the Student Government and Vice President of the Faculty Student Association at Stony Brook University.

@@ -9,7 +9,7 @@ active = true  # Activate this widget? true/false
 weight = 200  # Order that this section will appear.
 
 title = "IR portfolio"
-subtitle = "Subtitle1"
+subtitle = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -25,8 +25,8 @@ subtitle = "Subtitle1"
    color = "navy"
   
   # Background gradient.
-   gradient_start = "DeepSkyBlue"
-   gradient_end = "SkyBlue"
+  # gradient_start = "DeepSkyBlue"
+  # gradient_end = "SkyBlue"
   
   # Background image.
   # image = "headers/bubbles-wide.jpg"  # Name of image in `static/img/`.
@@ -47,14 +47,12 @@ subtitle = "Subtitle1"
  css_class = ""
 +++
 
-Welcome to my ePortfolio for the Institutional Research Graduate Certification
+Welcome to my ePortfolio for the Institutional Research Graduate Certification. *This section fullfills the requirements for [the Graduate Certificate in Institutional Research at Indiana University](https://education.indiana.edu/programs/graduate/certificate/institutional-research.html)
 
-- Bullet point 1: nowledge and skills
+## Introduction
+- Bullet point 1: 
 
-**This section fullfills the requirements for [the Graduate Certificate in Institutional Research at Indiana University](https://education.indiana.edu/programs/graduate/certificate/institutional-research.html) **
+## Skills, Knowledge, and Interests
+- Bullet point 2: 
 
-+++
-subtitle = "Knowledge and skills"
-+++ 
-More information here. 
 
