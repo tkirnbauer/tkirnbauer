@@ -11,6 +11,8 @@ weight = "" # Order that this section will appear.
 title = "IR portfolio"
 subtitle = ""
 
+url = "IRportfolio/aboutme"
+
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "1"
