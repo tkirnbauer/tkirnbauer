@@ -12,9 +12,13 @@ Hello, this is my e-portoflio for the Institutional Research Certificate.
 subtitle = "Knowledge, Skills, and Abilities"
 
 subtitle = "Summary"
+
+[[main]]
+    name = "IR Portfolio"
+    url = "/IRportfolio"
+    weight = 200
     
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "1"
-  
-++++
++++
