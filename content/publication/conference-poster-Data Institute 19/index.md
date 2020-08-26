@@ -9,7 +9,7 @@ image:
   caption: 'Image credit: **Thomas Kirnbauer**'
   focal_point: ""
 links:
-  name: Data Viz
+- name: Data Viz
   url: https://public.tableau.com/profile/thomas.kirnbauer#!/vizhome/2002HSSophmoresELSWhatinfluences2011employmentincome/Dashboard1
   
 #projects:
