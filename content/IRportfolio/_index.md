@@ -12,7 +12,7 @@ Welcome to my ePortfolio for the Institutional Research Graduate Certification. 
 - Bullet point 1: 
 
 ## Skills, Knowledge, and Interests
-- Bullet point 2: There are several examples of my work and publications related to my Graduate Certification in IR; examples can be found [here](#publications)
+- Bullet point 2: There are several examples of my work and publications related to my Graduate Certification in IR; examples can be found [here](home/#publications)
 
 ## Conclusion
 - Bullet point 3:
