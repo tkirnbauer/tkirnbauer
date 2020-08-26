@@ -4,7 +4,7 @@ authors:
 - Allison BrckaLorenz, Dajanae Palmer, Thomas Kirnbauer, Donte` Miller
 date: "2018-11-14T00:00:00-04:00"
 doi: ""
-featured: true
+featured: false
 image:
   caption: 'Image credit: **Thomas Kirnbauer**'
   focal_point: ""

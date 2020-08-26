@@ -14,5 +14,5 @@ Welcome to my ePortfolio for the Institutional Research Graduate Certification. 
 ## Skills, Knowledge, and Interests
 - Bullet point 2: 
 
-##Conclusion
+## Conclusion
 - Bullet point 3:
