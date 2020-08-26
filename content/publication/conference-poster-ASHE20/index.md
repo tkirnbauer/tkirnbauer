@@ -24,7 +24,7 @@ tags:
 title: "Do Attitudes Towards Debt Impact Student Borrowing?: Exploring Connections Between Reliance, Borrowing, and Debt Loads "
 url_code: ''
 url_dataset: ''
-url_pdf: '/files/ASHE20_SABD.pdf'
+url_pdf: 'files/ASHE20_SABD.pdf'
 url_poster: ''
 url_project: ''
 url_slides: ''
