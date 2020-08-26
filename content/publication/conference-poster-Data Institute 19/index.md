@@ -27,7 +27,7 @@ title: "NCES Data Institute 2019: Executive Summary "
 url_code: ''
 url_dataset: ''
 url_pdf: ''
-url_poster: '/files/NCES_Data_Institute.pdf'
+url_poster: "/files/NCES_Data_Institute.pdf"
 url_project: ''
 url_slides: ''
 url_source: ''

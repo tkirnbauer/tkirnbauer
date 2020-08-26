@@ -24,7 +24,7 @@ tags:
 title: Student Activism - ASHE 2018 
 url_code: ''
 url_dataset: ''
-url_pdf: http://nsse.indiana.edu/pdf/presentations/2018/ASHE_2018_Activism_paper.pdf
+url_pdf: "http://nsse.indiana.edu/pdf/presentations/2018/ASHE_2018_Activism_paper.pdf"
 url_poster: ''
 url_project: ''
 url_slides: ''

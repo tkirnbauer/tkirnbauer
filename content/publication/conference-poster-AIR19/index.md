@@ -8,6 +8,7 @@ featured: true
 image:
   caption: 'Image credit: **Thomas Kirnbauer**'
   focal_point: ""
+  
 #- internal-project
 #publication: In *AIR 2019*
 #publication_short: In *AIR*
@@ -21,7 +22,7 @@ title: "Tableau Tips and Tricks: Building Dynamic Dashboards with Survey Data "
 url_code: ''
 url_dataset: ''
 url_pdf: ''
-url_poster: 'http://nsse.indiana.edu/pdf/presentations/2019/AIR_2019_Tableau_Poster.pdf'
+url_poster: "http://nsse.indiana.edu/pdf/presentations/2019/AIR_2019_Tableau_Poster.pdf"
 url_project: ''
 url_slides: ''
 url_source: ''

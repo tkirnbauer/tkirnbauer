@@ -20,7 +20,7 @@ tags:
 title: "Developing Transferable Skills for the Public Good"
 url_code: ''
 url_dataset: ''
-url_pdf: '/files/AERA20_FSSETRN_PAPER.pdf'
+url_pdf: "/files/AERA20_FSSETRN_PAPER.pdf"
 url_poster: ''
 url_project: ''
 url_slides: ''
