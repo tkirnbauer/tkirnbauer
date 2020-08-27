@@ -6,9 +6,9 @@ title: Institutional Research ePortfolio
 view: 2
 ---
 
-Welcome to my ePortfolio for the Institutional Research Graduate Certification. *This section fullfills the requirements for [the Graduate Certificate in Institutional Research at Indiana University](https://education.indiana.edu/programs/graduate/certificate/institutional-research.html)
+Welcome to my ePortfolio for the [the Graduate Certificate in Institutional Research at Indiana University](https://education.indiana.edu/programs/graduate/certificate/institutional-research.html)
 
-In this ePortfolio, I will tell you about myself, reflect on the work that I've done related to Institutional Research, and provide a summary of my professional growth. Throughout this discussion, I refer to some examples of the work that I've done over the past few years at Indiana University. You can find a copy of these examples [here](https://kirnbauer.rbind.io/publication/)
+In this ePortfolio, I will tell you about myself, reflect on the work that I've done related to Institutional Research, and provide a summary of my professional growth. Throughout this discussion, I refer to some examples of the work that I've completed over the past few years at Indiana University. You can find a copy of these examples [here](https://kirnbauer.rbind.io/publication/)
 
 ## Introduction
 
